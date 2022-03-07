@@ -1,4 +1,4 @@
-# Coursera_Mailru_ML
+# Coursera_Mail.ru_ML
 
 Курс по машинному обучению на курсере от Mail.ru, он был полностью на языке Python 3.
 
